@@ -1,0 +1,2 @@
+cgfp_cas.cg(80) : warning C7011: implicit cast from "float3" to "float"
+cgfp_cas.cg(93) : warning C7011: implicit cast from "float3" to "float"
